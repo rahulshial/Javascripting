@@ -40,7 +40,7 @@ if (a !== b) {
 }
 
 // document.body.innerHTML = "value of a: " + a + "</h1>"
-document.body.innerHTML = "theNumbersMatch: " + theNumbersMatch + "</h1>"
+// document.body.innerHTML = "theNumbersMatch: " + theNumbersMatch + "</h1>"
 
 let isLocked = false;
 
